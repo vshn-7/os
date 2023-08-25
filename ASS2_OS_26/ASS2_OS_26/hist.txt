@@ -1,0 +1,35 @@
+exit
+sb 4577
+sb 4577 -suggest
+sb 4416 -suggest
+sb 8237
+sb 8084 -signal
+sb 7559 -signal
+./f2<input.txt>output.txt
+./f2<input.txt
+gcc sample.c -o f2
+sort *.c
+cat *.c | sort
+delep /home/ragala/Documents/ASS2_OS/file.txt
+delep /home/ragala/Documents/ASS2_OS/file.txt
+pwd
+delep /home/ragala/Desktop/OS_LAB_2022/ASSGN2/file.txt
+delep /home/ragala/Desktop/OS_LAB_2022/ASSGN2/file.txt
+cat *.c | sort
+cat *.c | sort
+cat a.c | sort
+ls
+cat *.c
+cat *.c | sort
+cat *.c
+cat *.c | sort
+cat *.c | sort
+cd Documents
+cd
+cat *.c | sort
+cat a2.c | sort
+cat a2.c
+cat *.c | sort
+cd Downloads
+pwd
+cd

@@ -1,0 +1,16 @@
+The hurestic taken is the process with less time as the root of malware doen't consume more time than it's children because it stays in sleep for most of time.
+$ sb 13618 -signal
+1498    66    73.000000
+10504    2    624.000000
+10643    2    1.000000
+13112    15    0.000000
+13463    5    12.000000
+13484    4    12.000000
+13528    3    11.000000
+13585    2    11.000000
+13612    1    12.000000
+13618    0    12.000000
+
+
+by applying the command and printinf the time taken you can see that the pid of 13112 which is in the 13 sequence has the least time and is the parent of all process.
+So by this hueristic with respect to time shows that 13112 is the hueristic.
